@@ -1,0 +1,659 @@
+[17-Mar-2019 12:54:03 Etc/GMT] PHP Warning:  require(qa-include/qa-index.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/index.php on line 27
+[17-Mar-2019 12:54:03 Etc/GMT] PHP Warning:  require(qa-include/qa-index.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/index.php on line 27
+[17-Mar-2019 12:54:03 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'qa-include/qa-index.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/krushqbd/public_html/examistudy.com/index.php on line 27
+[17-Mar-2019 12:54:10 Etc/GMT] PHP Warning:  require(qa-include/qa-index.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/index.php on line 27
+[17-Mar-2019 12:54:10 Etc/GMT] PHP Warning:  require(qa-include/qa-index.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/index.php on line 27
+[17-Mar-2019 12:54:10 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'qa-include/qa-index.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/krushqbd/public_html/examistudy.com/index.php on line 27
+[17-Mar-2019 12:54:14 Etc/GMT] PHP Warning:  require(qa-base.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/qa-include/qa-index.php on line 46
+[17-Mar-2019 12:54:14 Etc/GMT] PHP Warning:  require(qa-base.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/qa-include/qa-index.php on line 46
+[17-Mar-2019 12:54:14 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'qa-base.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/krushqbd/public_html/examistudy.com/qa-include/qa-index.php on line 46
+[17-Mar-2019 12:54:14 Etc/GMT] PHP Warning:  require(qa-base.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/qa-include/qa-index.php on line 46
+[17-Mar-2019 12:54:14 Etc/GMT] PHP Warning:  require(qa-base.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/qa-include/qa-index.php on line 46
+[17-Mar-2019 12:54:14 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'qa-base.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/krushqbd/public_html/examistudy.com/qa-include/qa-index.php on line 46
+[17-Mar-2019 12:54:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:27 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:36 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:58 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:54:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:03 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:27 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:32 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:37 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:55:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:00 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:03 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:03 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:38 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:44 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:46 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:55 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:56:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:03 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:06 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:30 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:52 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:57:56 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:29 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:31 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:34 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:34 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:35 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:46 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:58:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:03 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:06 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:08 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:08 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:32 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:34 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:52 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:54 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 12:59:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:09 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:13 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:19 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:33 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:43 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:56 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:00:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:06 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:08 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:10 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:20 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:27 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:32 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:34 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:36 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:37 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:43 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:54 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:01:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:09 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:33 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:35 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:36 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:45 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:50 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:52 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:55 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:02:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:00 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:08 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:19 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:36 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:36 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:48 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:55 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:56 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:03:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:09 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:13 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:37 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:45 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:56 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:04:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:06 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:10 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:24 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:27 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:29 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:37 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:38 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:05:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:00 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:04 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:13 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:25 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:06:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:06 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:10 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:25 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:35 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:07:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:06 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:13 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:13 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:35 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:36 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:38 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:47 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:08:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:13 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:19 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:29 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:29 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:32 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:36 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:46 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:47 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:47 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:50 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:09:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:09 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:19 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:20 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:43 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:44 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:44 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:45 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:48 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:57 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:10:58 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:05 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:09 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:20 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:25 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:11:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:03 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:06 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:13 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:14 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:17 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:19 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:20 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:25 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:43 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:45 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:56 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:12:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:02 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:07 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:10 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:11 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:16 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:18 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:26 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:29 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:37 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:41 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:46 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:50 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:13:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:10 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:19 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:27 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:31 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:33 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:42 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:44 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:45 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:47 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:52 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:14:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:01 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:12 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:20 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:24 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:26 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:29 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:40 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:47 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:50 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:53 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:55 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:15:55 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:19 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:21 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:26 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:29 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:30 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:34 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:37 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:47 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:48 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:49 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:50 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:52 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:54 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:56 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:56 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:16:59 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:15 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:22 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:23 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:24 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:27 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:28 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:34 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:34 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:39 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:43 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:51 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:54 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:55 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:55 Etc/GMT] PHP Question2Answer fatal error: The config file could not be found. Please read the instructions in qa-config-example.php.
+[17-Mar-2019 13:17:57 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:17:57 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:17:59 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:17:59 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:00 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:00 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:04 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:14 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:14 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:15 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:15 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:16 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:16 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:24 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:24 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:25 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:28 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:28 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:33 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:33 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:37 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:47 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:47 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:51 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:51 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:52 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:52 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:53 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:18:57 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:18:57 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:04 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:06 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:06 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:21 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:21 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:22 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:22 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:22 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:22 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:24 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:24 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:24 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:24 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:26 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:26 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:29 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:29 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:30 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:30 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:34 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:34 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:37 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:40 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:40 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:41 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'your-mysql-username'@'localhost' (using password: YES) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[17-Mar-2019 13:19:41 Etc/GMT] PHP Question2Answer MySQL connect error 1045: Access denied for user 'your-mysql-username'@'localhost' (using password: YES)
+[17-Mar-2019 13:19:46 Etc/GMT] PHP Question2Answer MySQL query error 1146: Table 'krushqbd_examistudy.qa_options' doesn't exist - Query: SELECT title, content FROM qa_options
+[17-Mar-2019 13:20:43 Etc/GMT] PHP Question2Answer email send error: Could not instantiate mail function.
+[17-Mar-2019 15:27:28 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[17-Mar-2019 15:29:18 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 06:03:56 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 06:14:00 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 06:21:45 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 06:39:22 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 06:40:09 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 06:40:33 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 06:40:33 Etc/GMT] PHP Question2Answer fatal error: Could not send email confirmation
+[18-Mar-2019 07:10:42 Etc/GMT] PHP Warning:  require_once(/home/krushqbd/public_html/examistudy.com/qa-plugin/Donut-admin/admin/options.php): failed to open stream: No such file or directory in /home/krushqbd/public_html/examistudy.com/qa-plugin/Donut-admin/qa-plugin.php on line 26
+[18-Mar-2019 07:10:42 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/krushqbd/public_html/examistudy.com/qa-plugin/Donut-admin/admin/options.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/krushqbd/public_html/examistudy.com/qa-plugin/Donut-admin/qa-plugin.php on line 26
+[18-Mar-2019 07:42:43 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 11:49:53 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 12:07:54 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[18-Mar-2019 14:29:20 Etc/GMT] PHP Question2Answer MySQL query error 1146: Table 'krushqbd_examistudy.qa_widgetanyw' doesn't exist - Query: SELECT * FROM qa_widgetanyw ORDER BY ordering
+[19-Mar-2019 16:36:27 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Mar-2019 16:23:33 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[26-Mar-2019 01:44:07 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[26-Mar-2019 01:44:07 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[26-Mar-2019 01:48:11 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[26-Mar-2019 01:48:11 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[29-Mar-2019 16:50:09 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[24-Apr-2019 14:30:22 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[24-Apr-2019 15:11:08 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[24-Apr-2019 15:14:25 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[24-Apr-2019 15:16:24 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[24-Apr-2019 15:18:36 Etc/GMT] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '127.0.0.1' (111) in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[24-Apr-2019 15:18:36 Etc/GMT] PHP Question2Answer MySQL connect error 2003: Can't connect to MySQL server on '127.0.0.1' (111)
+[30-Apr-2019 12:07:06 Etc/GMT] PHP Question2Answer email send error: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: This message was classified as SPAM and may not be delivered. Following
+URIBL domains were found: examistudy.com.
+ SMTP code: 550
+[05-May-2019 03:23:19 Etc/GMT] PHP Question2Answer email send error: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: This message was classified as SPAM and may not be delivered. 
+ SMTP code: 550
+[07-May-2019 13:20:22 Etc/GMT] PHP Question2Answer email send error: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: This message was classified as SPAM and may not be delivered. Following
+URIBL domains were found: southafricatravel.club.
+ SMTP code: 550
+[09-May-2019 18:04:31 Etc/GMT] PHP Question2Answer email send error: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: This message was classified as SPAM and may not be delivered. Following
+URIBL domains were found: examistudy.com.
+ SMTP code: 550
+[11-May-2019 07:49:44 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[11-May-2019 07:49:44 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[11-May-2019 07:49:45 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[11-May-2019 07:49:45 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[11-May-2019 07:49:45 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[11-May-2019 07:49:45 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[11-May-2019 07:49:45 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[11-May-2019 07:49:45 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[11-May-2019 07:49:45 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[11-May-2019 07:49:45 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[11-May-2019 07:49:45 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[11-May-2019 07:49:45 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[19-May-2019 10:58:18 Etc/GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/krushqbd/public_html/examistudy.com/hrtps.php(21) : runtime-created function on line 1118
+[19-May-2019 13:58:11 Etc/GMT] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/examistudy.com/qa-include/app/post-update.php on line 1238
+[20-May-2019 13:39:51 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[20-May-2019 13:39:51 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[20-May-2019 13:39:51 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[20-May-2019 13:39:51 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[20-May-2019 13:39:51 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[20-May-2019 13:39:51 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[20-May-2019 13:39:51 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[20-May-2019 13:39:51 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[06-Jun-2019 09:06:49 Etc/GMT] PHP Question2Answer email send error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jun-2019 09:42:35 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[19-Jun-2019 08:28:46 Etc/GMT] PHP Question2Answer email send error: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: This message was classified as SPAM and may not be delivered. Following
+URIBL domains were found: japantravel.network.
+ SMTP code: 550
+[19-Jun-2019 23:37:00 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[19-Jun-2019 23:37:00 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[22-Jun-2019 07:59:26 Etc/GMT] PHP Question2Answer email send error: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: This message was classified as SPAM and may not be delivered. 
+ SMTP code: 550
+[23-Jun-2019 01:41:56 Etc/GMT] PHP Question2Answer email send error: SMTP Error: data not accepted.SMTP server error: DATA END command failed Detail: This message was classified as SPAM and may not be delivered. 
+ SMTP code: 550
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:15 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[25-Jun-2019 18:05:19 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[25-Jun-2019 18:05:19 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[07-Jul-2019 06:21:19 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[14-Jul-2019 04:05:04 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[30-Aug-2019 01:26:10 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[30-Aug-2019 01:26:10 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[30-Aug-2019 01:29:16 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[30-Aug-2019 01:29:16 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[30-Aug-2019 01:34:41 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[30-Aug-2019 01:34:41 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[30-Aug-2019 01:35:57 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[30-Aug-2019 01:35:57 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[08-Sep-2019 09:45:36 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[08-Sep-2019 09:45:37 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[08-Sep-2019 09:45:37 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[08-Sep-2019 09:45:37 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[08-Sep-2019 09:45:37 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[08-Sep-2019 09:45:37 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[08-Sep-2019 09:45:38 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[08-Sep-2019 09:45:38 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[11-Sep-2019 01:48:19 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[11-Sep-2019 01:48:19 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[11-Sep-2019 01:48:54 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[11-Sep-2019 01:48:54 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[22-Sep-2019 05:22:50 Etc/GMT] PHP Warning:  mysqli::__construct(): (42000/1203): User krushqbd_exam already has more than 'max_user_connections' active connections in /home/krushqbd/public_html/examistudy.com/qa-include/qa-db.php on line 84
+[22-Sep-2019 05:22:50 Etc/GMT] PHP Question2Answer MySQL connect error 1203: User krushqbd_exam already has more than 'max_user_connections' active connections
+[13-Oct-2019 18:50:54 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[13-Oct-2019 18:50:54 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[13-Oct-2019 18:52:42 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[13-Oct-2019 18:52:42 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
+[13-Oct-2019 18:53:00 Etc/GMT] PHP Question2Answer email send error: You must provide at least one recipient email address.
+[13-Oct-2019 18:53:00 Etc/GMT] PHP Question2Answer fatal error: Could not send reset password email
